@@ -2,7 +2,6 @@ package com.xzit.springboot.entity;
 
 public class College {
     private Integer collid;
-
     private String code;
 
     private String name;
